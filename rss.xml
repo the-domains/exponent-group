@@ -4,8 +4,15 @@
         <description><![CDATA[exponent-group]]></description>
         <link>https://thegrid.ai/exponent-group/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jul 2016 13:20:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2016 13:21:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/exponent-group/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/09632e35-3f5c-4240-99bd-dc9d7420d624.jpg">]]></description>
+            <link>https://thegrid.ai/exponent-group/forest-therapy-sometimes-called-forest-bathing-comes/index.html</link>
+            <guid isPermaLink="false">1030c2b9-5c9d-4e51-82fe-06edf5249114</guid>
+            <pubDate>Thu, 07 Jul 2016 13:21:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Running Is Moving Meditation]]></title>
             <description><![CDATA[<article><h1>Running Is Moving Meditation</h1><p>Sure,
@@ -20,13 +27,6 @@ to pound pavement.</p></article>]]></description>
             <link>https://thegrid.ai/exponent-group/running-is-moving-meditation/index.html</link>
             <guid isPermaLink="false">e654c3bc-31de-49f4-9e86-d4cf781f1026</guid>
             <pubDate>Thu, 07 Jul 2016 13:18:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/09632e35-3f5c-4240-99bd-dc9d7420d624.jpg">]]></description>
-            <link>https://thegrid.ai/exponent-group/forest-therapy-sometimes-called-forest-bathing-comes/index.html</link>
-            <guid isPermaLink="false">1030c2b9-5c9d-4e51-82fe-06edf5249114</guid>
-            <pubDate>Thu, 07 Jul 2016 13:09:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
