@@ -1,0 +1,28 @@
+name: exponent-group
+favicon: null
+layout_spectrum: 0.12734008813276887
+typography_spectrum: 0.8471520482562482
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9232639267574996
+  lightness: 0.6748629922512919
+  saturation: 0.8078733482398093
+  rhythmicContrast: 0.9254120166879147
+purpose: []
